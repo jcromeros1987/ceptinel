@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ceptinel/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/ceptinel/static/js/main.be27df47.chunk.js",
+    "main.js.map": "/ceptinel/static/js/main.be27df47.chunk.js.map",
+    "runtime-main.js": "/ceptinel/static/js/runtime-main.392a004e.js",
+    "runtime-main.js.map": "/ceptinel/static/js/runtime-main.392a004e.js.map",
+    "static/js/2.a2576ccd.chunk.js": "/ceptinel/static/js/2.a2576ccd.chunk.js",
+    "static/js/2.a2576ccd.chunk.js.map": "/ceptinel/static/js/2.a2576ccd.chunk.js.map",
+    "static/js/3.bbd7c643.chunk.js": "/ceptinel/static/js/3.bbd7c643.chunk.js",
+    "static/js/3.bbd7c643.chunk.js.map": "/ceptinel/static/js/3.bbd7c643.chunk.js.map",
+    "index.html": "/ceptinel/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/ceptinel/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.a2576ccd.chunk.js.LICENSE.txt": "/ceptinel/static/js/2.a2576ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392a004e.js",
+    "static/js/2.a2576ccd.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.be27df47.chunk.js"
+  ]
+}
