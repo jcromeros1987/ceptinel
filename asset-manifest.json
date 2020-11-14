@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ceptinel/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/ceptinel/static/js/main.6874efb8.chunk.js",
-    "main.js.map": "/ceptinel/static/js/main.6874efb8.chunk.js.map",
+    "main.js": "/ceptinel/static/js/main.20429bf8.chunk.js",
+    "main.js.map": "/ceptinel/static/js/main.20429bf8.chunk.js.map",
     "runtime-main.js": "/ceptinel/static/js/runtime-main.852224fc.js",
     "runtime-main.js.map": "/ceptinel/static/js/runtime-main.852224fc.js.map",
     "static/js/2.e36b4877.chunk.js": "/ceptinel/static/js/2.e36b4877.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.852224fc.js",
     "static/js/2.e36b4877.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.6874efb8.chunk.js"
+    "static/js/main.20429bf8.chunk.js"
   ]
 }
